@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">task1V</string>
+    <string name="button_name">Решить уравнение</string>
+    <string name="name_kof_c">Коэффициент c</string>
+    <string name="name_kof_b">Коэффициент b</string>
+    <string name="name_kof_a">Коэффициент a</string>
+    <string name="kof_c">Введите коэффициент c</string>
+    <string name="kof_b">Введите коэффициент b</string>
+    <string name="kof_a">Введите коэффициент a</string>
+    <string name="enter_title">Введите коэффициенты квадратного уравнения</string>
+    <string name="translate_ru">Перевести на русский</string>
+    <string name="translate_en">Перевести на английский</string>
+
+
+</resources>

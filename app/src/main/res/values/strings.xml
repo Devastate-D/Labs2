@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">sergeyLab</string>
+    <string name="button_name">Solve the equation</string>
+    <string name="name_kof_c">Coefficient c</string>
+    <string name="name_kof_b">Coefficient b</string>
+    <string name="name_kof_a">Coefficient a</string>
+    <string name="kof_c">Enter the coefficient c</string>
+    <string name="kof_b">Enter the coefficient b</string>
+    <string name="kof_a">Enter the coefficient a</string>
+    <string name="enter_title">Enter the coefficients of the quadratic equation</string>
+    <string name="translate_ru">Translate to Russian</string>
+    <string name="translate_en">Translate to English</string>
+</resources>
